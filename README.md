@@ -1,71 +1,24 @@
-# Title
+# README
 
-### Table Of Contents
-* [Introduction](#introduction)
-* [Objective](#objective)
-* [Instructions](#instructions)
-* [Dependencies](#dependencies)
-* [Installation](#installation)
-* [Usage](#usage)
-* [Testing](#testing) 
-* [Future](#future)
-* [Mechanics](#mechanics)
-* [Credits](#credits)
-* [Disclaimer](#disclaimer)
-* [Keep In Touch](#keep-in-touch)
+This README would normally document whatever steps are necessary to get the
+application up and running.
 
-## Introduction  
+Things you may want to cover:
 
-#### About This Project
+* Ruby version
 
-#### About Me
-Developer, Designer Be creative!! Currently Studying [@42SiliconValley][42]
+* System dependencies
 
-#### About 42  
-[42][42] is a free, non profit, project-based, peer-to-peer learning coding school. It originated in France and now has over 20 campuses all over the world. More information can be found [here][42] 
+* Configuration
 
-## Objective  
+* Database creation
 
-## Instructions
-Make sure you have the needed [dependencies](#dependencies) before proceeding.
-For instructions and/or greater detail refer to the project [pdf][pdf]
-## Mandatory part
+* Database initialization
 
-## Bonus part
+* How to run the test suite
 
-## Dependencies  
-* A C language compiler most common would be GCC or Clang.
-* These were written to run on Unix based systems, it would likely work on a windows machine too but is currently untested. 
+* Services (job queues, cache servers, search engines, etc.)
 
-## Installation 
+* Deployment instructions
 
-## Usage  
-
-## Testing  
-
-## Future 
-
-## Mechanics  
-
-## Credits  
-
-Some frameworks and libraries that were helpful with testing.   
-
-## Disclaimer
-
-This project was done for learning purposes only.
-
-### Warning For 42 Students
-
-This is not kept up to date and I cannot guarantee that it will work on your future machines. You are welcome to use and learn from this as you want, but do not implement code that you do not understand. Copying is not the way. 
-
-## Keep in Touch
-
-You can find me on:
-[Github][kosehy]
-Enjoy!
-
-[42]: http://42.us.org "42 USA"
-[pdf]: pdf
-
-[kosehy]: https://github.com/kosehy
+* ...
