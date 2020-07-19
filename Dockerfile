@@ -11,4 +11,6 @@ RUN bundle install --no-binstubs --jobs $(nproc) --retry 3
 
 COPY . .
 
+RUN yarn install --check-files
+CMD ["bundle", "exec", "rake", "db:seed"]
 CMD ["bundle", "exec", "rails", "server", "-b", "0.0.0.0"]
